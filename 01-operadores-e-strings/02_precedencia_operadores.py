@@ -6,17 +6,22 @@
 # A Definição indica a seguinda ordem como a correta:
 #Parêntesis / Expoêntes / Multiplicação e Divisões (Da Esquerda para a Direita) / Somas e Substração (Da esquerda para a Direita)
 
-print (10 - 5 * 2)
->>> 0
+#print (10 - 5 * 2)
+#>>> 0
 
-print((10 - 5) * 2)
->>> 10
+#print((10 - 5) * 2)
+#>>> 10
 
-print (10 ** 2 * 2)
->>> 200
+#print (10 ** 2 * 2)
+#>>> 200
 
-print (10 ** (2 * 2))
->>> 10000
+#print (10 ** (2 * 2))
+#>>> 10000
 
-prit (10 / 2 * 4)
->>> 20.0
+#prit (10 / 2 * 4)
+#>>> 20.0
+
+x = (10 + 5) * 4
+y = (10 / 2) + (25 * 2) - (2 ** 2)
+print (x)
+print (y)
