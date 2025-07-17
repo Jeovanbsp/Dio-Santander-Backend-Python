@@ -4,19 +4,19 @@ Este repositório contém os exercícios e anotações do curso **Santander 2025
 
 ---
 
-## 📚 Módulo - Operadores e Manipulação de Strings com Python ( 6 Atividades )
+## 📚 Módulo - Operadores e Manipulação de Strings com Python 
 
 ### 📌 Seção: Operadores Aritméticos - Objetivo (O que são operadores aritméticos e como utilizá-los)
 
-- ✅ Etapa 1: Conhecendo os operadores aritméticos  
+- ✅ Etapa 1: Conhecendo os operadores aritméticos  (Adição ,Subtração ,Multiplicação, Divisão ,Divisão Inteira ,Módulo ,Exponenciação )
   Arquivo: `01-operadores-e-strings/01_conhecendo_operadores.py`
 
-- ✅ Etapa 2: Precedência de operadores  
+- ✅ Etapa 2: Precedência de operadores  (Utilização dos Parênteses)
   Arquivo: `01-operadores-e-strings/02_precedencia_operadores.py`
   
 ### 📌 Seção: Operadores de Compração - Objetivo (O que são operadores de comparação e como utilizá-los)
 
-- ✅ Etapa 1: Conhecendo os operadores de Comparação 
+- ✅ Etapa 1: Conhecendo os operadores de Comparação (Igualdade ,Diferença ,Maior que / Maior ou Igual ,Menor que / Menor ou igual)
 
 ---
 ## 📚 Módulo - Estruturas Condicionais e de Repetição com Python 
