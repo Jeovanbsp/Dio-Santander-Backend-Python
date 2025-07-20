@@ -8,7 +8,7 @@ Este repositório contém os exercícios e anotações do curso **Santander 2025
 
 ### 📌 Seção: Operadores Aritméticos - Objetivo (O que são operadores aritméticos e como utilizá-los)
 
-- ✅ Etapa 1: Conhecendo os operadores aritméticos  (Adição ,Subtração ,Multiplicação, Divisão ,Divisão Inteira ,Módulo ,Exponenciação )
+- ✅ Etapa 1: Conhecendo os operadores aritméticos  (Adição ,Subtração ,Multiplicação, Divisão ,Divisão Inteira ,Módulo e Exponenciação )
   Arquivo: `Operadores Aritméticos/01_conhecendo_operadores.py`
 
 - ✅ Etapa 2: Precedência de operadores  (Utilização dos Parênteses)
@@ -18,6 +18,11 @@ Este repositório contém os exercícios e anotações do curso **Santander 2025
 
 - ✅ Etapa 1: Conhecendo os operadores de Comparação (Igualdade ,Diferença ,Maior que / Maior ou Igual ,Menor que / Menor ou igual)
  Arquivo: `Operadores Aritméticos/03_conhecendo_operadores_de_comparação.py`
+
+ ### 📌 Seção: Operadores de Atribuição - Objetivo (Oque são operadores de atribuição e como utiliza-los)
+
+ - ✅ Etapa 1: Conhecendo os Operadores de Atribuição (Operadores utilizado para definir o valor inicial ou sobrescrever o valor de uma Váriavel.)
+ Arquivo: `Operadores Aritméticos/04_conhecendo_operadores_de_atribuição.py`
 
 ---
 ## 📚 Módulo - Estruturas Condicionais e de Repetição com Python 
