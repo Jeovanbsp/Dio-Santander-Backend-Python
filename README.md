@@ -24,6 +24,11 @@ Este repositório contém os exercícios e anotações do curso **Santander 2025
  - ✅ Etapa 1: Conhecendo os Operadores de Atribuição (Operadores utilizado para definir o valor inicial ou sobrescrever o valor de uma Váriavel.)
  Arquivo: `Operadores Aritméticos/04_conhecendo_operadores_de_atribuição.py`
 
+ ### 📌 Seção: Operadores de Lógica - Objetivo (Entender como funciona os operadores lógicos e como utilizá-los em expressão booleanas)
+
+ - ✅ Etapa 1: Conhecendo os Operadores de Lógica (Operadores utilizados para combinar expressões condicionais, como and, or e not, retornando valores booleanos.)
+ Arquivo: `Operadores Aritméticos/05_conhecendo_operadores_logicos.py`
+
 ---
 ## 📚 Módulo - Estruturas Condicionais e de Repetição com Python 
 ---
