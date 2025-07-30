@@ -19,7 +19,7 @@ Este repositório contém os exercícios e anotações do curso **Santander 2025
 - ✅ Etapa 1: Conhecendo os operadores de Comparação (Igualdade ,Diferença ,Maior que / Maior ou Igual ,Menor que / Menor ou igual)
  Arquivo: `Operadores Aritméticos/03_conhecendo_operadores_de_comparação.py`
 
- ### 📌 Seção: Operadores de Atribuição - Objetivo (Oque são operadores de atribuição e como utiliza-los)
+ ### 📌 Seção: Operadores de Atribuição - Objetivo (Oque são operadores de atribuição e como utilizá-los)
 
  - ✅ Etapa 1: Conhecendo os Operadores de Atribuição (Operadores utilizado para definir o valor inicial ou sobrescrever o valor de uma Váriavel.)
  Arquivo: `Operadores Aritméticos/04_conhecendo_operadores_de_atribuição.py`
@@ -29,10 +29,15 @@ Este repositório contém os exercícios e anotações do curso **Santander 2025
  - ✅ Etapa 1: Conhecendo os Operadores de Lógica (Operadores utilizados para combinar expressões condicionais, como and, or e not, retornando valores booleanos.)
  Arquivo: `Operadores Aritméticos/05_conhecendo_operadores_logicos.py`
 
- ### 📌 Seção: Operadores de Identidade - Objetivo (O que são operadores de Identidade e como utiliza-los )
+ ### 📌 Seção: Operadores de Identidade - Objetivo (O que são operadores de Identidade e como utilizá-los )
 
  - ✅ Etapa 1: Conhecendo os Operadores de Identidade (Operadores de Identidade são utilizados para comprar se os dois objetos testados ocupam a mesma posição na memória.)
  Arquivo: `Operadores Aritméticos/06_conhecendo_operadores_identidade.py`
+
+  ### 📌 Seção: Operadores de Associação - Objetivo O que são operadores de associação e como utilizá-los )
+
+ - ✅ Etapa 1: Conhecendo os Operadores de Associação (São operadores utilizados para verificar se um objeto está presente em uma sequência.)
+ Arquivo: `Operadores Aritméticos/07_conhecendo_operadores_associaçaõ.py`
 
 ---
 ## 📚 Módulo - Estruturas Condicionais e de Repetição com Python 
