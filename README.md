@@ -42,6 +42,11 @@ Este repositório contém os exercícios e anotações do curso **Santander 2025
 ---
 ## 📚 Módulo - Estruturas Condicionais e de Repetição com Python 
 ---
+### 📌 Seção: Identação e Blocos - Objetivo (Aprender como o Interpretador Python utiliza a identação do código para delimitar os blocos de comandos) 
+
+ - ✅ Etapa 1: Identação e os Blocos de Comandos
+ Arquivo: `Estruturas_Condicionais_e_de_Repetição/Identação_e_Blocos.py`
+
 ## 🛠️ Tecnologias Utilizadas
 
 - Python 3
