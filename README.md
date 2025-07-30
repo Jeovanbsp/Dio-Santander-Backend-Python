@@ -29,6 +29,11 @@ Este repositório contém os exercícios e anotações do curso **Santander 2025
  - ✅ Etapa 1: Conhecendo os Operadores de Lógica (Operadores utilizados para combinar expressões condicionais, como and, or e not, retornando valores booleanos.)
  Arquivo: `Operadores Aritméticos/05_conhecendo_operadores_logicos.py`
 
+ ### 📌 Seção: Operadores de Identidade - Objetivo (O que são operadores de Identidade e como utiliza-los )
+
+ - ✅ Etapa 1: Conhecendo os Operadores de Identidade (Operadores de Identidade são utilizados para comprar se os dois objetos testados ocupam a mesma posição na memória.)
+ Arquivo: `Operadores Aritméticos/06_conhecendo_operadores_identidade.py`
+
 ---
 ## 📚 Módulo - Estruturas Condicionais e de Repetição com Python 
 ---
