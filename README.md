@@ -47,6 +47,14 @@ Este repositório contém os exercícios e anotações do curso **Santander 2025
  - ✅ Etapa 1: Identação e os Blocos de Comandos
  Arquivo: `Estruturas_Condicionais_e_de_Repetição/Identação_e_Blocos.py`
 
+ ### 📌 Seção: Estruturas Condicionais - Objetivo (Entender o que são estuturas condicionais e como utilizá-las) 
+
+ - ✅ Etapa 1: If / Else / Elif
+ - ✅ Etapa 2: If Alinhado
+ - ✅ Etapa 3: If Ternário
+
+ Arquivo: `Estruturas_Condicionais_e_de_Repetição/estruturas_condicionais.py`
+
 ## 🛠️ Tecnologias Utilizadas
 
 - Python 3
