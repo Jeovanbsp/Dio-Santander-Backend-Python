@@ -55,6 +55,14 @@ Este repositório contém os exercícios e anotações do curso **Santander 2025
 
  Arquivo: `Estruturas_Condicionais_e_de_Repetição/estruturas_condicionais.py`
 
+ ### 📌 Seção: Estruturas de Repetição - Objetivo (Conhecer as Estruturas de Repetição For, While, Breack e Continue e quando Utilizá-las)
+
+ - ✅ Etapa 1: O que são estruturas de Repetição ?
+ - ✅ Etapa 2: Comando For e a função Built-in range ()
+ - ✅ Etapa 3: Comando While
+
+ Arquivo: `Estruturas_Condicionais_e_de_Repetição/Estruturas_de_Repetição.py`
+
 ## 🛠️ Tecnologias Utilizadas
 
 - Python 3
