@@ -22,6 +22,7 @@ Este repositório contém os exercícios e anotações do curso **Santander 2025
 ---
 ## 📚 Módulo - Estruturas Condicionais e de Repetição com Python 
 ---
+
 ### 📌 Seção: Identação e Blocos - Objetivo (Aprender como o Interpretador Python utiliza a identação do código para delimitar os blocos de comandos) 
 
  ### 📌 Seção: Estruturas Condicionais - Objetivo (Entender o que são estuturas condicionais e como utilizá-las) 
@@ -29,6 +30,12 @@ Este repositório contém os exercícios e anotações do curso **Santander 2025
 
  ### 📌 Seção: Estruturas de Repetição - Objetivo (Conhecer as Estruturas de Repetição For, While, Breack e Continue e quando Utilizá-las)
 
+
+---
+## 📚 Módulo - Dominando Strings e Fatiamento
+---
+
+ ### 📌 Seção: Conhecendo Métodos Úteis de Classe String - Objetivo (Conhecer os Métodos úteis para manipular objetos do Tipo String, como interpolar valores de Variáveis e entender como funciona o Fatiamento de Strings)
 
 
 ## 🛠️ Tecnologias Utilizadas
