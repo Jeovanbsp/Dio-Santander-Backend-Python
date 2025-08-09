@@ -8,60 +8,28 @@ Este repositório contém os exercícios e anotações do curso **Santander 2025
 
 ### 📌 Seção: Operadores Aritméticos - Objetivo (O que são operadores aritméticos e como utilizá-los)
 
-- ✅ Etapa 1: Conhecendo os operadores aritméticos  (Adição ,Subtração ,Multiplicação, Divisão ,Divisão Inteira ,Módulo e Exponenciação )
-  Arquivo: `Operadores Aritméticos/01_conhecendo_operadores.py`
-
-- ✅ Etapa 2: Precedência de operadores  (Utilização dos Parênteses)
-  Arquivo: `Operadores Aritméticos/02_precedencia_operadores.py`
-  
 ### 📌 Seção: Operadores de Compração - Objetivo (O que são operadores de comparação e como utilizá-los)
-
-- ✅ Etapa 1: Conhecendo os operadores de Comparação (Igualdade ,Diferença ,Maior que / Maior ou Igual ,Menor que / Menor ou igual)
- Arquivo: `Operadores Aritméticos/03_conhecendo_operadores_de_comparação.py`
 
  ### 📌 Seção: Operadores de Atribuição - Objetivo (Oque são operadores de atribuição e como utilizá-los)
 
- - ✅ Etapa 1: Conhecendo os Operadores de Atribuição (Operadores utilizado para definir o valor inicial ou sobrescrever o valor de uma Váriavel.)
- Arquivo: `Operadores Aritméticos/04_conhecendo_operadores_de_atribuição.py`
-
  ### 📌 Seção: Operadores de Lógica - Objetivo (Entender como funciona os operadores lógicos e como utilizá-los em expressão booleanas)
-
- - ✅ Etapa 1: Conhecendo os Operadores de Lógica (Operadores utilizados para combinar expressões condicionais, como and, or e not, retornando valores booleanos.)
- Arquivo: `Operadores Aritméticos/05_conhecendo_operadores_logicos.py`
 
  ### 📌 Seção: Operadores de Identidade - Objetivo (O que são operadores de Identidade e como utilizá-los )
 
- - ✅ Etapa 1: Conhecendo os Operadores de Identidade (Operadores de Identidade são utilizados para comprar se os dois objetos testados ocupam a mesma posição na memória.)
- Arquivo: `Operadores Aritméticos/06_conhecendo_operadores_identidade.py`
-
   ### 📌 Seção: Operadores de Associação - Objetivo O que são operadores de associação e como utilizá-los )
 
- - ✅ Etapa 1: Conhecendo os Operadores de Associação (São operadores utilizados para verificar se um objeto está presente em uma sequência.)
- Arquivo: `Operadores Aritméticos/07_conhecendo_operadores_associaçaõ.py`
 
 ---
 ## 📚 Módulo - Estruturas Condicionais e de Repetição com Python 
 ---
 ### 📌 Seção: Identação e Blocos - Objetivo (Aprender como o Interpretador Python utiliza a identação do código para delimitar os blocos de comandos) 
 
- - ✅ Etapa 1: Identação e os Blocos de Comandos
- Arquivo: `Estruturas_Condicionais_e_de_Repetição/Identação_e_Blocos.py`
-
  ### 📌 Seção: Estruturas Condicionais - Objetivo (Entender o que são estuturas condicionais e como utilizá-las) 
 
- - ✅ Etapa 1: If / Else / Elif
- - ✅ Etapa 2: If Alinhado
- - ✅ Etapa 3: If Ternário
-
- Arquivo: `Estruturas_Condicionais_e_de_Repetição/estruturas_condicionais.py`
 
  ### 📌 Seção: Estruturas de Repetição - Objetivo (Conhecer as Estruturas de Repetição For, While, Breack e Continue e quando Utilizá-las)
 
- - ✅ Etapa 1: O que são estruturas de Repetição ?
- - ✅ Etapa 2: Comando For e a função Built-in range ()
- - ✅ Etapa 3: Comando While
 
- Arquivo: `Estruturas_Condicionais_e_de_Repetição/Estruturas_de_Repetição.py`
 
 ## 🛠️ Tecnologias Utilizadas
 
