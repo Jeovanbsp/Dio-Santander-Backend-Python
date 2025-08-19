@@ -39,6 +39,10 @@ Este repositório contém os exercícios e anotações do curso **Santander 2025
 
   ### 📌 Seção: Interpolação de Variáveis - Objetivo (Aprendemos 3 formas de interpolar variáveis em Strings em Python, a primeira é usando o sinal %, a segunda é utilizar o método format e a última é utilizar f strings.)
 
+   ### 📌 Seção: Fatiamento em Python - Objetivo ( Fatiamento de Strings é uma técnica utilizada para retornar substrings (Partes de Strings Original), informando inicio (Start), fim (Stop) e passo (Step): [Start:Stop[,Step]].)
+
+
+
 
 ## 🛠️ Tecnologias Utilizadas
 
