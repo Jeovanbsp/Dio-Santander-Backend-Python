@@ -41,6 +41,8 @@ Este repositório contém os exercícios e anotações do curso **Santander 2025
 
    ### 📌 Seção: Fatiamento em Python - Objetivo ( Fatiamento de Strings é uma técnica utilizada para retornar substrings (Partes de Strings Original), informando inicio (Start), fim (Stop) e passo (Step): [Start:Stop[,Step]].)
 
+  ### 📌 Seção:  String Múltiplas Linhas- Objetivo ( trings de Múltiplas linhas são definidas informando 3 aspas simples ou duplas durante a atribuição. Elas podem ocupar várias linhas de código, e todos os espaços em branco são incluídos na string final.)
+
 
 
 
